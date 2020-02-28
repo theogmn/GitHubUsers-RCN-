@@ -1,5 +1,6 @@
-
+<h1 align="center">
 <img alt="DevRadar" title="#delicinha" src=".github/GitUserList.png" width="250px" />
+</h1>
 
 ### Screenshot
 
