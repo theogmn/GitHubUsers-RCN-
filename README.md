@@ -1,11 +1,13 @@
-![](.github/GitUserList.png)
+
+<img alt="DevRadar" title="#delicinha" src=".github/GitUserList.png" width="250px" />
 
 ### Screenshot
 
 ------------
 
 
-![](.github/GitHubUserList present.jpg)
+
+<img alt="Frontend" src=".github/GitHubUserListPresent.jpg" width="100%">
 
 ### Descrição
 
